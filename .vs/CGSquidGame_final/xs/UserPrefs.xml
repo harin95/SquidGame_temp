@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D18F300B-C6AB-C3F4-709A-EEABB9F13614}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyAssets_copy/itemFlashLight.cs">
+    <Files>
+      <File FileName="Assets/MyAssets_copy/itemLightGlass.cs" Line="37" Column="14" />
+      <File FileName="Assets/MyAssets_copy/TemperedGlassController.cs" />
+      <File FileName="Assets/MyAssets_copy/StoneController.cs" />
+      <File FileName="Assets/MyAssets_copy/itemFlashLight.cs" Line="24" Column="53" />
+      <File FileName="Assets/MyAssets_copy/Work.cs" />
+      <File FileName="Assets/MyAssets_copy/BreakableWindow.cs" />
+      <File FileName="Assets/MyAssets_copy/StoneGenerator.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CGSquidGame_final" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MyAssets_copy" expanded="True">
+                <Node name="itemLightGlass.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5e63e6ab-a1b1-441e-ba4e-2673e25045f0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
